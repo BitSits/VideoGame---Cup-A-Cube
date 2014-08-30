@@ -5,7 +5,7 @@ In this game you have to collect sugar cubes to make your coffee sweet, which wi
 
 Download Executable
 ---
-[Cup A Cube.zip(2.79 MB)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Cup%20A%20Cube.zip)
+[Cup A Cube.zip (2.79 MB)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Cup%20A%20Cube.zip)
 
 
 Instructions

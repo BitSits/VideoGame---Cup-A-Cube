@@ -43,6 +43,7 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 [Creative Commons Sampling Plus 1.0 License]: http://creativecommons.org/licenses/sampling+/1.0/
 [Creative Commons Attribution-ShareAlike 3.0 Unported License]: http://creativecommons.org/licenses/by-sa/3.0/
 [Creative Commons Attribution 3.0 Unported]: http://creativecommons.org/licenses/by/3.0/
+[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 [Bitsits Games]: https://bitsits.blogspot.com
 [Shubhajit Saha]: https://suvozit.blogspot.com
